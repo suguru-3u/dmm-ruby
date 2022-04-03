@@ -1,0 +1,2 @@
+//このフォルダの目的
+DMMWEBCAMPのruby講座の学習
